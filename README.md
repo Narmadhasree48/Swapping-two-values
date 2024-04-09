@@ -19,18 +19,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-developed by: ANBU SELVAN S   
-reg no:212223110003
-```Python
-a=input()
-b=input()
-c=a
-a=b
-b=c
-print("Swapped values are:",a,b)
-```
 ## ouput:
-![alt text](<Screenshot 2024-03-12 140640.png>)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
