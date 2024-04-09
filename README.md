@@ -18,7 +18,6 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-![Screenshot 2024-03-12 140640](https://github.com/AnbuSelvanS7/Swapping-two-values/assets/151528411/28ab9840-76c6-492e-8f4c-bce34b5e169a)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
